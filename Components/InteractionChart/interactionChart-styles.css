@@ -1,0 +1,11 @@
+.interactionColBar{
+    padding-right: 0;
+}
+
+.interactionColDonut{
+    padding: 0;
+}
+
+.bargraph .x-axis{
+    font-size: 17px !important;
+}

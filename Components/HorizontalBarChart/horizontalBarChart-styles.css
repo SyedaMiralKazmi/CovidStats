@@ -1,0 +1,126 @@
+.horizontalBarChartWrapper .selected {
+
+    stroke: #555;
+
+    stroke-width: 2;
+
+}
+
+ 
+
+.horizontalBarChartWrapper .selectedText {
+
+    font-weight: 600;
+
+}
+
+.horizontalBarChartWrapper .icon-wrapper p {
+
+    margin: 0;
+
+}
+
+.horizontalBarChartWrapper .icon-wrapper.Facebook p {
+
+    background-image: url('./Desert.jpg');
+
+    background-size: 100% 100%;
+
+    width: 20px;
+
+    height: 20px;
+
+}
+
+.horizontalBarChartWrapper .icon-wrapper.Instagram p {
+
+    background-image: url('./Desert.jpg');
+
+    background-size: 100% 100%;
+
+    width: 20px;
+
+    height: 20px;
+
+}
+
+.horizontalBarChartWrapper .icon-wrapper.Twitter p {
+
+    background-image: url('./Desert.jpg');
+
+    background-size: 100% 100%;
+
+    width: 20px;
+
+    height: 20px;
+
+}
+
+.horizontalBarChartWrapper .icon-wrapper.Periscope p {
+
+    background-image: url('./Desert.jpg');
+
+    background-size: 100% 100%;
+
+    width: 20px;
+
+    height: 20px;
+
+}
+
+.horizontalBarChartWrapper .icon-wrapper.Quora p {
+
+    background-image: url('./Desert.jpg');
+
+    background-size: 100% 100%;
+
+    width: 20px;
+
+    height: 20px;
+
+}
+
+  
+
+.horizontalBarChartWrapper .icon-wrapper.Google p {
+
+    /* background-image: url('./../assets/icons/Google.png'); */
+
+    background-image: url('./Desert.jpg');
+
+
+    background-size: 100% 100%;
+
+    width: 20px;
+
+    height: 20px;
+
+}
+
+.horizontalTooltip {
+
+    background:#fff; 
+ 
+    box-shadow: 0 0 5px #999999;
+ 
+    display: none;
+ 
+    color: black;
+ 
+    font-size: 12px;
+ 
+    border-radius: 15px;
+ 
+    padding: 10px;
+ 
+    position: absolute;
+ 
+    opacity: 0.85;
+ 
+    text-align: center;
+ 
+    top: 0px;
+ 
+    z-index: 10;
+ 
+  }

@@ -1,0 +1,40 @@
+.zoomablebubblechartwrapper .node {
+  cursor: pointer;
+}
+
+.zoomablebubblechartwrapper .node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.zoomablebubblechartwrapper .node--leaf {
+  fill: white;
+}
+
+.zoomablebubblechartwrapper .label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.zoomablebubblechartwrapper .label,
+.zoomablebubblechartwrapper .node--root,
+.zoomablebubblechartwrapper .node--leaf {
+  pointer-events: none;
+}
+
+.toolTipBubble
+{
+  background:#fff; 
+  box-shadow: 0 0 5px #999999;
+  display: none;
+  color: black;
+  font-size: 12px;
+  border-radius: 10px;
+  padding: 10px;
+  position: absolute;
+  opacity: 0.85;
+  text-align: center;
+  top: 0px;
+z-index: 10;
+}

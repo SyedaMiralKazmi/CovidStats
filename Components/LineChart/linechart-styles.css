@@ -1,0 +1,88 @@
+/* .lineChartWrapper .linePath {
+
+    fill: none;
+
+    stroke: steelblue;
+
+    stroke-width: 2;
+
+}
+
+ 
+
+.lineChartWrapper .axis path,.lineChartWrapper .axis line {
+
+  
+
+    shape-rendering: crispEdges;
+
+    stroke: #BBB;
+
+    stroke-width: 1;
+
+}
+
+ 
+
+.tooltipLineChart {
+
+ background:#fff; 
+
+ box-shadow: 0 0 5px #999999;
+
+ display: none;
+
+ color: black;
+
+ font-size: 12px;
+
+ border-radius: 15px;
+
+ padding: 10px;
+
+ position: absolute;
+
+ opacity: 0.85;
+
+ text-align: center;
+
+ top: 0px;
+
+ z-index: 10;
+
+} */
+.lineChartWrapper .xAxis {
+    font-size: 17px !important;
+}
+.lineChartWrapper .yAxis {
+    font-size: 17px !important;
+}
+
+
+.tooltipLineChart {
+
+    background:#fff; 
+ 
+    box-shadow: 0 0 5px #999999;
+ 
+    display: none;
+ 
+    color: black;
+ 
+    font-size: 12px;
+ 
+    border-radius: 15px;
+ 
+    padding: 10px;
+ 
+    position: absolute;
+ 
+    opacity: 0.85;
+ 
+    text-align: center;
+ 
+    top: 0px;
+ 
+    z-index: 10;
+ 
+  }

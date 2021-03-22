@@ -1,0 +1,60 @@
+{
+    "imagesReferenceName": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "Quora",
+        "Google",
+        "Periscope"
+    ],
+    "values": [
+        {
+            "key": "11/02/2020",
+            "value": 21,
+            "displayValue": "21",
+            "fill": "#2D469B"
+        },
+        {
+            "key": "11/03/2020",
+            "value": 25,
+            "displayValue": "25",
+            "fill": "#2D469B"
+        },
+        {
+            "key": "11/04/2020",
+            "value": 27,
+            "displayValue": "27",
+            "fill": "#2D469B"
+        },
+        {
+            "key": "11/05/2020",
+            "value": 31,
+            "displayValue": "31",
+            "fill": "#2D469B"
+        },
+        {
+            "key": "11/06/2020",
+            "value": 41,
+            "displayValue": "41",
+            "fill": "#1E348E"
+        },
+        {
+            "key": "11/07/2020",
+            "value": 46,
+            "displayValue": "46",
+            "fill": "#1E348E"
+        },
+        {
+            "key": "11/08/2020",
+            "value": 51,
+            "displayValue": "51",
+            "fill": "#0E2180"
+        },
+        {
+            "key": "11/09/2020",
+            "value": 46,
+            "displayValue": "46",
+            "fill": "#1E348E"
+        }
+    ]
+}

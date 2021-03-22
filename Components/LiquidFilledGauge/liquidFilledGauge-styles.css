@@ -1,0 +1,35 @@
+.liquidFillGaugeText {
+
+    font-family: Helvetica;
+
+    font-weight: bold;
+
+}
+
+.tooltipLiquidFilled {
+
+   background:#fff; 
+
+   box-shadow: 0 0 5px #999999;
+
+   display: none;
+
+   color: black;
+
+   font-size: 12px;
+
+   border-radius: 15px;
+
+   padding: 10px;
+
+   position: absolute;
+
+   opacity: 0.85;
+
+   text-align: center;
+
+   top: 0px;
+
+   z-index: 10;
+
+ }
